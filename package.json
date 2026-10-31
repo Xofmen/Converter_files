@@ -1,0 +1,10 @@
+{
+  "name": "file-converter-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Локальный конвертер файлов в браузере (PWA)",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  }
+}
